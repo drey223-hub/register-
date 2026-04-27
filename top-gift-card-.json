@@ -1,9 +1,9 @@
 {
   "owner": {
-    "username": "drey223-hub",
+    "username": "drey223-hub", 
     "email": "johnbrent419@gmail.com"
   },
-  "record": {
-    "CNAME": "cname.vercel-dns.com."
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
   }
 }
